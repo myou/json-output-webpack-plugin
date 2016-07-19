@@ -1,0 +1,16 @@
+{
+  "name": "json-output-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin to output a list of JSON files",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myou/json-output-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "JSON",
+    "plugin"
+  ],
+  "author": "Max You <max.you15@gmail.com>"
+}
