@@ -2,11 +2,11 @@
 
 ```js
 // webpack.config.js
-var JsonOutputPlugin = require('json-output-webpack-plugin');
+var JSONOutputPlugin = require('json-output-webpack-plugin');
 
 module.exports = {
   plugins: [
-    new JsonOutputPlugin([
+    new JSONOutputPlugin([
       {
         path: 'custom-path/a/b/c/d.json',
         obj: {
